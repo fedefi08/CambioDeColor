@@ -1,0 +1,10 @@
+C:\Users\fede_\source\repos\CambioDeColorFormulario\CambioDeColorFormulario\bin\Debug\CambioDeColorFormulario.exe.config
+C:\Users\fede_\source\repos\CambioDeColorFormulario\CambioDeColorFormulario\bin\Debug\CambioDeColorFormulario.exe
+C:\Users\fede_\source\repos\CambioDeColorFormulario\CambioDeColorFormulario\bin\Debug\CambioDeColorFormulario.pdb
+C:\Users\fede_\source\repos\CambioDeColorFormulario\CambioDeColorFormulario\obj\Debug\CambioDeColorFormulario.csproj.AssemblyReference.cache
+C:\Users\fede_\source\repos\CambioDeColorFormulario\CambioDeColorFormulario\obj\Debug\CambioDeColorFormulario.Form1.resources
+C:\Users\fede_\source\repos\CambioDeColorFormulario\CambioDeColorFormulario\obj\Debug\CambioDeColorFormulario.Properties.Resources.resources
+C:\Users\fede_\source\repos\CambioDeColorFormulario\CambioDeColorFormulario\obj\Debug\CambioDeColorFormulario.csproj.GenerateResource.cache
+C:\Users\fede_\source\repos\CambioDeColorFormulario\CambioDeColorFormulario\obj\Debug\CambioDeColorFormulario.csproj.CoreCompileInputs.cache
+C:\Users\fede_\source\repos\CambioDeColorFormulario\CambioDeColorFormulario\obj\Debug\CambioDeColorFormulario.exe
+C:\Users\fede_\source\repos\CambioDeColorFormulario\CambioDeColorFormulario\obj\Debug\CambioDeColorFormulario.pdb
